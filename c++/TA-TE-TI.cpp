@@ -16,7 +16,7 @@ bool Verificacion_de_ganador(char); // Verifica si alguno de los jugadores (Usua
 
 int main()
 {
-	cout << ("Bienvendos") << endl << endl;
+	cout << ("Bienvenidos") << endl << endl;
 
 	Relleno();
 
